@@ -1,0 +1,21 @@
+.simple-action-btns {
+    display: flex;
+    flex-direction: column;
+}
+
+.simple-action-btns > .MuiChip-root {
+    margin-bottom: .25rem;
+    cursor: pointer;
+    max-width: 8rem;
+    height: auto;
+}
+
+.action-wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon-action-btns > svg{
+    cursor: pointer;
+    margin: 0 .125rem;
+}

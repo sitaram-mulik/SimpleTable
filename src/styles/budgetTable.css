@@ -1,0 +1,24 @@
+.table {
+  background: #f5f7fa;
+  padding: 1rem;
+  border-radius: .25rem;
+}
+
+.table .MuiTableCell-root {
+  vertical-align: top;
+}
+  
+.table-info {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.table-info > span {
+  margin-right: .5rem;
+}
+
+.toolbar {
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}

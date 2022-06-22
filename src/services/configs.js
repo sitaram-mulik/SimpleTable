@@ -1,0 +1,26 @@
+const SMALL = 'small';
+const ICON_FONT_SIZE = SMALL;
+const ICON_TYPE = 'action';
+const PROGRESS_VARIANT = 'determinate';
+const TYPOGRAPHY_VARIANT = 'body2';
+const TABLE_CELL_SIZE = SMALL;
+const TABLE_CELL_ALIGNMENT = 'left';
+const TABLE_MIN_WIDTH = 650;
+const TABLE_MAX_HEIGHT = 600;
+const BTN_VARIANT = 'contained';
+const TEXT_FIELD_MIN_WIDTH = '20rem';
+const TEXT_FIELD_SIZE = SMALL;
+
+export {
+    ICON_FONT_SIZE,
+    ICON_TYPE,
+    PROGRESS_VARIANT,
+    TYPOGRAPHY_VARIANT,
+    TABLE_CELL_SIZE,
+    TABLE_CELL_ALIGNMENT,
+    TABLE_MIN_WIDTH,
+    TABLE_MAX_HEIGHT,
+    BTN_VARIANT,
+    TEXT_FIELD_MIN_WIDTH,
+    TEXT_FIELD_SIZE
+};
